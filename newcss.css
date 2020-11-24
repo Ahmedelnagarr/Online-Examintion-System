@@ -1,0 +1,201 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300);
+@import 'https://fonts.googleapis.com/css?family=Fauna+One';
+
+body
+{
+	color:#000;
+    font-family: 'Fauna One', serif;
+    font-size: 20px;
+}
+
+figcaption
+{
+	color:black !important;
+
+}
+
+
+
+footer
+{
+	background-color: steelblue;
+	color:white;
+	clear:both;
+}
+
+
+
+
+
+.brand
+{
+	float:left;
+	width:20%;
+	color:white;
+}
+
+ul
+{
+	background-color:steelblue;
+	color:white;
+	list-style:none;
+	padding:0;
+	margin:0;
+	height: 180px;
+	width: 100%;
+}
+
+.container .links li 
+{
+	display:inline-block ;
+	text-transform:uppercase;
+	margin-top:35px;
+	border-bottom:2px solid transparent; /*border with padding you must size for text */
+	width: 8%;
+
+}
+
+aside
+{
+	overflow:hidden;
+	background-color:#fff; 
+	height:400px;
+	width:25%;
+ 	padding: 5px;
+ 	color:white;
+ 	float: left;
+ 	color:black;
+}
+button
+{
+	background-color: #ddd;
+	border: none;
+	color:black!important;
+	padding: 20px 32px;
+	text-align: center;
+	font-size: 16px;
+	margin: 4px 2px;
+ 	width: 100%;
+  	cursor: pointer;
+  	border-radius: 15px;
+}
+
+.art
+{
+	float:right;
+	background-color:#fff; 
+	width:68%;
+	padding:2%;
+}
+
+.button {
+  background-color:steelblue;
+  border: none;
+  color:black!important;
+  padding: 20px 32px;
+  text-align: center;
+  font-size: 18px;
+  margin: 4px 2px;
+  width: 30%;
+  cursor: pointer;
+  display:inline-block ;
+  border-radius: 15px;
+}
+
+label
+	{
+	font-style: black;
+	color:red;
+	border-radius: 15px;
+	}
+
+
+
+
+
+h1
+{
+	text-align: center;
+}
+
+h2
+{
+	text-align: center;
+	color:white;
+}
+
+input[type=text], input[type=password] , input[type=date],  input[type=search] , input[type=number], select ,textarea ,input[type="date"] , input[type="time"]
+{
+  width: 90%;
+  padding: 12px; 
+  border: 2px solid black; 
+  border-radius: 4px; 
+  box-sizing: 25px; 
+  margin-top: 6px; 
+  margin-bottom: 16px; 
+  resize: vertical ;
+  border-radius: 15px;
+}
+header
+{
+	height: 220px;
+}
+
+.head
+{
+	background-color: 000000;
+}
+
+.log
+{
+	position:absolute;
+	top: 35%;
+	bottom: 0;
+	left: 35%;
+	right: 0;
+	width: 30%	
+
+}
+#login
+{
+	border-radius: 15px;
+	text-decoration: none;
+	border-color: steelblue;
+	background: transparent;
+	color:black;
+}
+
+.Exam
+{
+	background-color: #ddd;
+  border: none;
+  color:black!important;
+  padding: 20px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  width: 30%;
+  cursor: pointer;
+
+}
+
+#remon
+{
+	margin-left: 30px;
+}
+
+#pic1
+{
+	
+}
+#a
+{
+	text-decoration: none;
+	font-size: 20px;
+	border-radius: 15px;
+}
+
+#photo
+{
+	border-radius: 50% !important;
+}
